@@ -38,7 +38,7 @@
     <link href="http://yoursite.com/2016/09/02/hexo_githubPages/"/>
     <id>http://yoursite.com/2016/09/02/hexo_githubPages/</id>
     <published>2016-09-02T15:45:20.000Z</published>
-    <updated>2017-01-16T10:38:20.000Z</updated>
+    <updated>2017-01-16T12:01:53.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="什么是Hexo？"><a href="#什么是Hexo？" class="headerlink" title="什么是Hexo？"></a>什么是Hexo？</h2><p><strong>Hexo</strong> 是一个快速、简单且强大的框架。Hexo使用<strong>Markdown</strong>（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生<strong>静态</strong>档案。</p>
 <h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>安装<strong>Hexo</strong>必须先检查电脑是否已经安装下列软件:</p>
@@ -71,7 +71,7 @@
 <h2 id="将独立域名与GitHub-Pages的空间绑定"><a href="#将独立域名与GitHub-Pages的空间绑定" class="headerlink" title="将独立域名与GitHub Pages的空间绑定"></a>将独立域名与GitHub Pages的空间绑定</h2><p>方法一：在Repository的根目录下面，新建一个名为CNAME的文本文件，里面写入你要绑定的域名，比如cnfeat.com。</p>
 <p>方法二：到我的github仓库，点击右下角的「Download ZIP」，下载源文件，解压，找到CNAME文件，用记事本打开，将cnfeat.com修改成你的域名，放进Hexo\source目录下，用hexo命令提交上去。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo d -g // 把修改的文件上传的git</div></pre></td></tr></table></figure>
-]]></content>
+<h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><h4 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a><a href="http://div.io/topic/1691" target="_blank" rel="external">Hexo</a></h4><h4 id="如何搭建一个独立博客"><a href="#如何搭建一个独立博客" class="headerlink" title="如何搭建一个独立博客"></a><a href="http://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="external">如何搭建一个独立博客</a></h4><h4 id="Hexo小书"><a href="#Hexo小书" class="headerlink" title="Hexo小书"></a><a href="https://pengloo53.gitbooks.io/hexo/content/" target="_blank" rel="external">Hexo小书</a></h4>]]></content>
     
     <summary type="html">
     
@@ -79,6 +79,10 @@
     
     </summary>
     
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="youngkook" scheme="http://yoursite.com/tags/youngkook/"/>
     
   </entry>
   
