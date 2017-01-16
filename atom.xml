@@ -1,117 +1,46 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YoungKook`Blog</title>
   
-  <title>Hexo+GithubPages搭建个人博客 | YoungKook`Blog</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="什么是Hexo？Hexo 是一个快速、简单且强大的框架。Hexo使用Markdown（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生静态档案。
-安装Hexo安装Hexo必须先检查电脑是否已经安装下列软件:
-
-Node.js
-Git
-
-以上必备软件安装好后我们就可以通过npm完成hexo的安装。
-这里说下我电脑的系统环境1234567891011121314➜  ~ hexo -vh">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Hexo+GithubPages搭建个人博客">
-<meta property="og:url" content="http://yoursite.com/2016/09/02/hexo_githubPages/index.html">
-<meta property="og:site_name" content="YoungKook`Blog">
-<meta property="og:description" content="什么是Hexo？Hexo 是一个快速、简单且强大的框架。Hexo使用Markdown（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生静态档案。
-安装Hexo安装Hexo必须先检查电脑是否已经安装下列软件:
-
-Node.js
-Git
-
-以上必备软件安装好后我们就可以通过npm完成hexo的安装。
-这里说下我电脑的系统环境1234567891011121314➜  ~ hexo -vh">
-<meta property="og:updated_time" content="2017-01-16T10:38:20.000Z">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hexo+GithubPages搭建个人博客">
-<meta name="twitter:description" content="什么是Hexo？Hexo 是一个快速、简单且强大的框架。Hexo使用Markdown（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生静态档案。
-安装Hexo安装Hexo必须先检查电脑是否已经安装下列软件:
-
-Node.js
-Git
-
-以上必备软件安装好后我们就可以通过npm完成hexo的安装。
-这里说下我电脑的系统环境1234567891011121314➜  ~ hexo -vh">
+  <link href="/atom.xml" rel="self"/>
   
-    <link rel="alternate" href="/atom.xml" title="YoungKook`Blog" type="application/atom+xml">
+  <link href="http://yoursite.com/"/>
+  <updated>2016-09-03T18:36:12.000Z</updated>
+  <id>http://yoursite.com/</id>
   
-  
-    <link rel="icon" href="/favicon.png">
-  
-  
-    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
-  
-  <link rel="stylesheet" href="/css/style.css">
-  
-
-</head>
-
-<body>
-  <div id="container">
-    <div id="wrap">
-      <header id="header">
-  <div id="banner"></div>
-  <div id="header-outer" class="outer">
-    <div id="header-title" class="inner">
-      <h1 id="logo-wrap">
-        <a href="/" id="logo">YoungKook`Blog</a>
-      </h1>
-      
-    </div>
-    <div id="header-inner" class="inner">
-      <nav id="main-nav">
-        <a id="main-nav-toggle" class="nav-icon"></a>
-        
-          <a class="main-nav-link" href="/">Home</a>
-        
-          <a class="main-nav-link" href="/archives">Archives</a>
-        
-      </nav>
-      <nav id="sub-nav">
-        
-          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
-        
-        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
-      </nav>
-      <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
-      </div>
-    </div>
-  </div>
-</header>
-      <div class="outer">
-        <section id="main"><article id="post-hexo_githubPages" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2016/09/02/hexo_githubPages/" class="article-date">
-  <time datetime="2016-09-02T15:45:20.000Z" itemprop="datePublished">2016-09-02</time>
-</a>
+  <author>
+    <name>Jone</name>
     
-  </div>
-  <div class="article-inner">
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IMAPOST</title>
+    <link href="http://yoursite.com/2016/09/03/IMAPOST/"/>
+    <id>http://yoursite.com/2016/09/03/IMAPOST/</id>
+    <published>2016-09-02T18:19:39.000Z</published>
+    <updated>2016-09-03T18:36:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line">- (<span class="keyword">void</span>)viewDidLoad &#123;</div><div class="line">    [<span class="keyword">super</span> viewDidLoad];</div><div class="line">    </div><div class="line">    <span class="keyword">self</span>.pageControl = [[KYAnimatedPageControl alloc]</div><div class="line">                        initWithFrame:<span class="built_in">CGRectMake</span>(<span class="number">20</span>, <span class="number">450</span>, <span class="number">280</span>, <span class="number">50</span>)];</div><div class="line">    <span class="keyword">self</span>.pageControl.pageCount = <span class="number">8</span>;</div><div class="line">    <span class="keyword">self</span>.pageControl.unSelectedColor = [<span class="built_in">UIColor</span> colorWithWhite:<span class="number">0.9</span> alpha:<span class="number">1</span>];</div><div class="line">    <span class="keyword">self</span>.pageControl.selectedColor = [<span class="built_in">UIColor</span> redColor];</div><div class="line">    <span class="keyword">self</span>.pageControl.bindScrollView = <span class="keyword">self</span>.demoCollectionView;</div><div class="line">    <span class="keyword">self</span>.pageControl.shouldShowProgressLine = <span class="literal">YES</span>;</div><div class="line">    <span class="keyword">self</span>.pageControl.indicatorStyle = IndicatorStyleGooeyCircle;</div><div class="line">    <span class="keyword">self</span>.pageControl.indicatorSize = <span class="number">20</span>;</div><div class="line">    <span class="keyword">self</span>.pageControl.swipeEnable = <span class="literal">YES</span>;</div><div class="line">    [<span class="keyword">self</span>.view addSubview:<span class="keyword">self</span>.pageControl];</div><div class="line">    </div><div class="line">    <span class="keyword">self</span>.pageControl.didSelectIndexBlock = ^(<span class="built_in">NSInteger</span> index) &#123;</div><div class="line">        <span class="built_in">NSLog</span>(<span class="string">@"Did Selected index : %ld"</span>, (<span class="keyword">long</span>)index);</div><div class="line">    &#125;;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight objc&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div
+    
+    </summary>
     
     
-      <header class="article-header">
-        
+  </entry>
   
-    <h1 class="article-title" itemprop="name">
-      Hexo+GithubPages搭建个人博客
-    </h1>
-  
-
-      </header>
+  <entry>
+    <title>Hexo+GithubPages搭建个人博客</title>
+    <link href="http://yoursite.com/2016/09/02/hexo_githubPages/"/>
+    <id>http://yoursite.com/2016/09/02/hexo_githubPages/</id>
+    <published>2016-09-02T15:45:20.000Z</published>
+    <updated>2017-01-16T10:38:20.000Z</updated>
     
-    <div class="article-entry" itemprop="articleBody">
-      
-        
-<div id="toc">
-  <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#什么是Hexo？"><span class="toc-text">什么是Hexo？</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#安装Hexo"><span class="toc-text">安装Hexo</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#这里说下我电脑的系统环境"><span class="toc-text">这里说下我电脑的系统环境</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#安装Git"><span class="toc-text">安装Git</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#安装Node-js"><span class="toc-text">安装Node.js</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#安装Hexo-1"><span class="toc-text">安装Hexo</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Hexo指令"><span class="toc-text">Hexo指令</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#常用命令"><span class="toc-text">常用命令</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#常用简写"><span class="toc-text">常用简写</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Hexo主题设置"><span class="toc-text">Hexo主题设置</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#设置主题"><span class="toc-text">设置主题</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#更新主题"><span class="toc-text">更新主题</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#GithubPages配置"><span class="toc-text">GithubPages配置</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#什么是GithubPages？"><span class="toc-text">什么是GithubPages？</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#创建自己的Github-Pages"><span class="toc-text">创建自己的Github Pages</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#github上建立仓库"><span class="toc-text">github上建立仓库</span></a></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#将独立域名与GitHub-Pages的空间绑定"><span class="toc-text">将独立域名与GitHub Pages的空间绑定</span></a></li></ol>
-</div>
-
-        <h2 id="什么是Hexo？"><a href="#什么是Hexo？" class="headerlink" title="什么是Hexo？"></a>什么是Hexo？</h2><p><strong>Hexo</strong> 是一个快速、简单且强大的框架。Hexo使用<strong>Markdown</strong>（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生<strong>静态</strong>档案。</p>
+    <content type="html"><![CDATA[<h2 id="什么是Hexo？"><a href="#什么是Hexo？" class="headerlink" title="什么是Hexo？"></a>什么是Hexo？</h2><p><strong>Hexo</strong> 是一个快速、简单且强大的框架。Hexo使用<strong>Markdown</strong>（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生<strong>静态</strong>档案。</p>
 <h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>安装<strong>Hexo</strong>必须先检查电脑是否已经安装下列软件:</p>
 <ul>
 <li><a href="https://nodejs.org/" target="_blank" rel="external">Node.js</a><br></li>
@@ -142,106 +71,15 @@ Git
 <h2 id="将独立域名与GitHub-Pages的空间绑定"><a href="#将独立域名与GitHub-Pages的空间绑定" class="headerlink" title="将独立域名与GitHub Pages的空间绑定"></a>将独立域名与GitHub Pages的空间绑定</h2><p>方法一：在Repository的根目录下面，新建一个名为CNAME的文本文件，里面写入你要绑定的域名，比如cnfeat.com。</p>
 <p>方法二：到我的github仓库，点击右下角的「Download ZIP」，下载源文件，解压，找到CNAME文件，用记事本打开，将cnfeat.com修改成你的域名，放进Hexo\source目录下，用hexo命令提交上去。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo d -g // 把修改的文件上传的git</div></pre></td></tr></table></figure>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://yoursite.com/2016/09/02/hexo_githubPages/" data-id="cixzysnmm0001oefyxn930dta" class="article-share-link">Share</a>
-      
-      
-    </footer>
-  </div>
-  
+]]></content>
     
-<nav id="article-nav">
-  
-    <a href="/2016/09/03/IMAPOST/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Newer</strong>
-      <div class="article-nav-title">
-        
-          IMAPOST
-        
-      </div>
-    </a>
-  
-  
-</nav>
-
-  
-</article>
-
-</section>
-        
-          <aside id="sidebar">
-  
+    <summary type="html">
     
-
-  
+      &lt;h2 id=&quot;什么是Hexo？&quot;&gt;&lt;a href=&quot;#什么是Hexo？&quot; class=&quot;headerlink&quot; title=&quot;什么是Hexo？&quot;&gt;&lt;/a&gt;什么是Hexo？&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Hexo&lt;/strong&gt; 是一个快速、简单且强大的框架。Hexo使用&lt;st
     
-
-  
+    </summary>
     
-  
     
-  <div class="widget-wrap">
-    <h3 class="widget-title">Archives</h3>
-    <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">September 2016</a></li></ul>
-    </div>
-  </div>
-
-
+  </entry>
   
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">Recent Posts</h3>
-    <div class="widget">
-      <ul>
-        
-          <li>
-            <a href="/2016/09/03/IMAPOST/">IMAPOST</a>
-          </li>
-        
-          <li>
-            <a href="/2016/09/02/hexo_githubPages/">Hexo+GithubPages搭建个人博客</a>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
-</aside>
-        
-      </div>
-      <footer id="footer">
-  
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; 2017 Jone<br>
-      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
-    </div>
-  </div>
-</footer>
-    </div>
-    <nav id="mobile-nav">
-  
-    <a href="/" class="mobile-nav-link">Home</a>
-  
-    <a href="/archives" class="mobile-nav-link">Archives</a>
-  
-</nav>
-    
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-
-
-  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
-  <script src="/fancybox/jquery.fancybox.pack.js"></script>
-
-
-<script src="/js/script.js"></script>
-
-  </div>
-</body>
-</html>
+</feed>
