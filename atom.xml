@@ -38,7 +38,7 @@
     <link href="http://yoursite.com/2016/09/02/hexo_githubPages/"/>
     <id>http://yoursite.com/2016/09/02/hexo_githubPages/</id>
     <published>2016-09-02T15:45:20.000Z</published>
-    <updated>2017-01-16T12:01:53.000Z</updated>
+    <updated>2017-01-16T12:06:16.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="什么是Hexo？"><a href="#什么是Hexo？" class="headerlink" title="什么是Hexo？"></a>什么是Hexo？</h2><p><strong>Hexo</strong> 是一个快速、简单且强大的框架。Hexo使用<strong>Markdown</strong>（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生<strong>静态</strong>档案。</p>
 <h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>安装<strong>Hexo</strong>必须先检查电脑是否已经安装下列软件:</p>
@@ -81,8 +81,6 @@
     
     
       <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
-    
-      <category term="youngkook" scheme="http://yoursite.com/tags/youngkook/"/>
     
   </entry>
   
