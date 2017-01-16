@@ -3,14 +3,39 @@
 <head>
   <meta charset="utf-8">
   
-  <title>YoungKook`Blog</title>
+  <title>Hexo+GithubPages搭建个人博客 | YoungKook`Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="YoungKook`Blog">
-<meta property="og:url" content="http://yoursite.com/index.html">
+  <meta name="description" content="什么是Hexo？Hexo 是一个快速、简单且强大的框架。Hexo使用Markdown（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生静态档案。
+安装Hexo必要条件安装Hexo必须先检查电脑是否已经安装下列软件:
+
+Node.js
+Git
+
+以上必备软件安装好后我们就可以通过npm完成hexo的安装。
+这里说下我电脑的系统环境1234567891011121314➜  ~ hexo">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hexo+GithubPages搭建个人博客">
+<meta property="og:url" content="http://yoursite.com/2016/09/02/hexo_githubPages/index.html">
 <meta property="og:site_name" content="YoungKook`Blog">
+<meta property="og:description" content="什么是Hexo？Hexo 是一个快速、简单且强大的框架。Hexo使用Markdown（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生静态档案。
+安装Hexo必要条件安装Hexo必须先检查电脑是否已经安装下列软件:
+
+Node.js
+Git
+
+以上必备软件安装好后我们就可以通过npm完成hexo的安装。
+这里说下我电脑的系统环境1234567891011121314➜  ~ hexo">
+<meta property="og:updated_time" content="2017-01-16T08:11:42.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="YoungKook`Blog">
+<meta name="twitter:title" content="Hexo+GithubPages搭建个人博客">
+<meta name="twitter:description" content="什么是Hexo？Hexo 是一个快速、简单且强大的框架。Hexo使用Markdown（或其他渲染引擎）解析您的文章。并在几秒钟内，透过漂亮的主题产生静态档案。
+安装Hexo必要条件安装Hexo必须先检查电脑是否已经安装下列软件:
+
+Node.js
+Git
+
+以上必备软件安装好后我们就可以通过npm完成hexo的安装。
+这里说下我电脑的系统环境1234567891011121314➜  ~ hexo">
   
     <link rel="alternate" href="/atom.xml" title="YoungKook`Blog" type="application/atom+xml">
   
@@ -59,45 +84,7 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-IMAPOST" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2016/09/03/IMAPOST/" class="article-date">
-  <time datetime="2016-09-02T18:19:39.000Z" itemprop="datePublished">2016-09-03</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2016/09/03/IMAPOST/">IMAPOST</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line">- (<span class="keyword">void</span>)viewDidLoad &#123;</div><div class="line">    [<span class="keyword">super</span> viewDidLoad];</div><div class="line">    </div><div class="line">    <span class="keyword">self</span>.pageControl = [[KYAnimatedPageControl alloc]</div><div class="line">                        initWithFrame:<span class="built_in">CGRectMake</span>(<span class="number">20</span>, <span class="number">450</span>, <span class="number">280</span>, <span class="number">50</span>)];</div><div class="line">    <span class="keyword">self</span>.pageControl.pageCount = <span class="number">8</span>;</div><div class="line">    <span class="keyword">self</span>.pageControl.unSelectedColor = [<span class="built_in">UIColor</span> colorWithWhite:<span class="number">0.9</span> alpha:<span class="number">1</span>];</div><div class="line">    <span class="keyword">self</span>.pageControl.selectedColor = [<span class="built_in">UIColor</span> redColor];</div><div class="line">    <span class="keyword">self</span>.pageControl.bindScrollView = <span class="keyword">self</span>.demoCollectionView;</div><div class="line">    <span class="keyword">self</span>.pageControl.shouldShowProgressLine = <span class="literal">YES</span>;</div><div class="line">    <span class="keyword">self</span>.pageControl.indicatorStyle = IndicatorStyleGooeyCircle;</div><div class="line">    <span class="keyword">self</span>.pageControl.indicatorSize = <span class="number">20</span>;</div><div class="line">    <span class="keyword">self</span>.pageControl.swipeEnable = <span class="literal">YES</span>;</div><div class="line">    [<span class="keyword">self</span>.view addSubview:<span class="keyword">self</span>.pageControl];</div><div class="line">    </div><div class="line">    <span class="keyword">self</span>.pageControl.didSelectIndexBlock = ^(<span class="built_in">NSInteger</span> index) &#123;</div><div class="line">        <span class="built_in">NSLog</span>(<span class="string">@"Did Selected index : %ld"</span>, (<span class="keyword">long</span>)index);</div><div class="line">    &#125;;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://yoursite.com/2016/09/03/IMAPOST/" data-id="cixzt4vaj0000k1fyduqogtsm" class="article-share-link">Partager</a>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-  
-    <article id="post-hexo_githubPages" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-hexo_githubPages" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2016/09/02/hexo_githubPages/" class="article-date">
   <time datetime="2016-09-02T15:45:20.000Z" itemprop="datePublished">2016-09-02</time>
@@ -110,8 +97,8 @@
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2016/09/02/hexo_githubPages/">Hexo+GithubPages搭建个人博客</a>
+    <h1 class="article-title" itemprop="name">
+      Hexo+GithubPages搭建个人博客
     </h1>
   
 
@@ -153,10 +140,23 @@
     </footer>
   </div>
   
-</article>
-
+    
+<nav id="article-nav">
+  
+    <a href="/2016/09/03/IMAPOST/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Récent</strong>
+      <div class="article-nav-title">
+        
+          IMAPOST
+        
+      </div>
+    </a>
+  
+  
+</nav>
 
   
+</article>
 
 </section>
         
